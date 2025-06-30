@@ -1,3 +1,9 @@
+Navigeerimiseks installi react navigation https://reactnavigation.org/docs/getting-started. Õpetus https://www.udemy.com/course/react-native-the-practical-guide/learn/lecture/31197644#overview Section 6, p 95.
+Terminalis käsud: 
+npm install @react-navigation/native 
+npx expo install react-native-screens react-native-safe-area-context
+npm install @react-navigation/native-stack  (https://reactnavigation.org/docs/hello-react-navigation)
+
 > Why do I have a folder named ".expo" in my project?
 The ".expo" folder is created when an Expo project is started using "expo start" command.
 > What do the files contain?
