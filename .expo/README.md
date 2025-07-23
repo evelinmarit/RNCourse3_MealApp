@@ -1,3 +1,5 @@
+Käivitamiseks käsk: npm start
+
 Navigeerimiseks installi react navigation https://reactnavigation.org/docs/getting-started. Õpetus https://www.udemy.com/course/react-native-the-practical-guide/learn/lecture/31197644#overview Section 6, p 95.
 Terminalis käsud: 
 npm install @react-navigation/native 
